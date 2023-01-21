@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheshwaran Prakash</h1>
 <h3 align="center">basic programmer doing basic projects</h3>
-<img align="right" alt="Coding" width="400" src="https://stock.adobe.com/search?k=programmer+cartoon">
+
 
 
 
